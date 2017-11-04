@@ -1,0 +1,17 @@
+.navbar-default {
+  background-color: #E55B0A;
+  border-color: #000000;
+  color: black;
+}
+
+.nav.navbar-nav li a {
+    color: black;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.navbar-default .navbar-brand {
+  color: black;
+}
