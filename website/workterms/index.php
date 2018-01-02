@@ -2,25 +2,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/style.page.css">
-  <script src="js/jquery-3.2.1.js"></script>
-  <script src="js/bootstrap.min.js"></script>
+    <title>NickolasLeipold.com</title>
+<?php
+    echo file_get_contents(__DIR__."/shared/bootstrap_jquery.html");
+?>
 </head>
 <body>
-
-<nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="/">nickolasLeipold</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <li><a href="1/workterm1.php">workterm 1 & 2</a></li>
-    </ul>
-  </div>
-</nav>
+<?php
+    echo file_get_contents(__DIR__."/shared/nav_bar.html");
+?>
 
 <div id="workterm-buttons" class="jumbotron">
     <h1>Workterm reports</h1>
