@@ -18,9 +18,8 @@
       <a class="navbar-brand" href="/">nickolasLeipold</a>
     </div>
     <ul class="nav navbar-nav">
-      <li><a href="../1/workterm1.php">workterm1</a></li>
-      <li><a href="../2/workterm2.php">workterm2</a></li>
-      <li><a href="../3/workterm3.php">workterm3</a></li>
+      <li><a href="../1/workterm1.php">workterm 1 & 2</a></li>
+      <li><a href="../3/workterm3.php">workterm 3</a></li>
     </ul>
   </div>
 </nav>

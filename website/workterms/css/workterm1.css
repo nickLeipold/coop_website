@@ -1,0 +1,41 @@
+#company {
+    text-align: center;
+}
+#content {
+    font-family: "Serif", Georgia;
+}
+#term-info {
+    text-align:left;
+}
+
+
+#job-description, img{
+    width: 80%;
+}
+
+#job-description {
+    word-wrap: break-word;
+    font-size: 12pt;
+    width:100%;
+    text-align:center;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding:10px;
+    margin:10px;
+    background-color: rgba(88, 192, 255, 0.03);;
+}
+#job-desc {
+    border: 2px solid black;
+    border-radius: 14px;
+    padding:10px;
+    text-align:left;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:15px;
+    margin-bottom:45px;
+}
+
+#adknown-logo{
+    width: 20%;
+    
+}
