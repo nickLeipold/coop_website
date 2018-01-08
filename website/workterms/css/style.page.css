@@ -1,6 +1,6 @@
 .navbar-default {
-  background-color: #E55B0A;
-  border-color: #000000;
+  background-color: #919191;
+  border-color: #6b6b6b;
   color: black;
 }
 
@@ -14,4 +14,8 @@
 
 .navbar-default .navbar-brand {
   color: black;
+}
+
+.nav .current {
+    background-color: black;
 }

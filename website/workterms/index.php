@@ -11,11 +11,32 @@
 <?php
     echo file_get_contents(__DIR__."/shared/nav_bar.html");
 ?>
+<div style="margin-left: 5px; margin-right: 5px;">
 
-<div id="workterm-buttons" class="jumbotron">
-    <h1>Workterm reports</h1>
-    <a href="1/workterm1.php" class="btn" style="margin-left=10px;" >First & Second</a>
+    <div id="git-link">
+        <a href="//github.com/nickLeipold">
+        <img src="shared/GitHub_Logo.png" width="18%">
+        </a>
+    </div>
+    <div id="workterm-buttons" style="background-color:#d3d3d3;">
+        <div style="margin-right:5px; margin-left:5px;">
+            <h1>Employers</h1>
+            <div id="adknown">
+                <a href="/adknown/about.php">
+                <img src="/adknown/adknown_logo.png" width="18%">
+                </a>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
 </div>
+
+
+<h4 style="padding-left:5px;">
+    This website is made to display past, present and future tech employers I have worked at as well as to display experiences and skills gained throughout the co-op process.
+<h4>
 
 </body>
 
