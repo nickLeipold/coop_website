@@ -10,4 +10,4 @@
 <?php
     echo file_get_contents(__DIR__."/../shared/nav_bar.html");
 ?>
-<h4 style="text-align:center">Job Description</h4>
+<h2 style="text-align:center">Job Description</h2>

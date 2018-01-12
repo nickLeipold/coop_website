@@ -16,7 +16,7 @@
     <div id="intro" style="text-align:center">
         <h4>Hey folks, welcome to my site. The main purpose of this site is to bring light on my work experiences, while in the co-op program at the University of Guelph.</h4>
     </div>
-    <div id="univ-logo" style="text-align:center">
+    <div id="univ-logo" style="text-align:center; background-color: rgba(255,255,255,0.7)">
         <img src="shared/universityOfGuelph.jpg" width="30%">
     </div>
     <div id="git-link">

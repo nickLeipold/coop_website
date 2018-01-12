@@ -11,7 +11,7 @@
 <?php
     echo file_get_contents(__DIR__."/../shared/nav_bar.html");
 ?>
-<h2 style="text-align:center">About ADknown</h2>
+<h2 style="text-align:center; background-color: rgba(255,255,255,0.7)">About ADknown</h2>
 
 <div id="what-we-do" style="float:left;">
 
