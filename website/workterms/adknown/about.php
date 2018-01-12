@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>NickolasLeipold.com</title>
+    <title>About Adknown</title>
 <?php
     echo file_get_contents(__DIR__."/../shared/bootstrap_jquery.html");
 ?>
@@ -13,6 +13,18 @@
 ?>
 <h2 style="text-align:center; background-color: rgba(255,255,255,0.7)">About ADknown</h2>
 
+<style>
+#what-we-do {
+    word-wrap: break-word;
+    font-size: 12pt;
+    width:100%;
+    text-align:left;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding:10px;
+    margin:10px;
+    background-color: rgba(255,255,255,0.7);
+    </style>
 <div id="what-we-do" style="float:left;">
 
         <div id="adknown" style="display:block" width="100%">
