@@ -7,12 +7,18 @@
     echo file_get_contents(__DIR__."/shared/bootstrap_jquery.html");
 ?>
 </head>
-<body>
+<body background="shared/orange-background.png">
 <?php
     echo file_get_contents(__DIR__."/shared/nav_bar.html");
 ?>
 <div style="margin-left: 5px; margin-right: 5px;">
 
+    <div id="intro" style="text-align:center">
+        <h4>Hey folks, welcome to my site. The main purpose of this site is to bring light on my work experiences, while in the co-op program at the University of Guelph.</h4>
+    </div>
+    <div id="univ-logo" style="text-align:center">
+        <img src="shared/universityOfGuelph.jpg" width="30%">
+    </div>
     <div id="git-link">
         <a href="//github.com/nickLeipold">
         <img src="shared/GitHub_Logo.png" width="18%">
@@ -35,7 +41,7 @@
 
 
 <h4 style="padding-left:5px;">
-    This website is made to display past, present and future tech employers I have worked at as well as to display experiences and skills gained throughout the co-op process.
+    The site has been made using HTML, PHP and javascript. Bootstrap has been implemented and files are linked together using PHP for shared elements.
 <h4>
 
 </body>

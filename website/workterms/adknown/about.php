@@ -7,39 +7,55 @@
     echo file_get_contents(__DIR__."/../shared/bootstrap_jquery.html");
 ?>
 </head>
-<body>
+<body background="/../shared/background.jpg">
 <?php
     echo file_get_contents(__DIR__."/../shared/nav_bar.html");
 ?>
+<h2 style="text-align:center">About ADknown</h2>
 
-<div id="what-we-do">
-    <div id="advertising">
+<div id="what-we-do" style="float:left;">
+
+        <div id="adknown" style="display:block" width="100%">
+        <p width="100%">
+            <a href="https://www.adknown.com/about/">
+            <img src="/adknown/adknown_logo.png" style="float:left; padding: 20px 20px 20px 20px;" width="20%">
+            </a>
+            <div id="quick-facts" width="100%">
+            <h4>Quick Facts</h4>
+            - Located in the Quebec Street mall downtown Guelph<br>
+            - Close knit team of developers and marketers<br>
+            - Fast response time with Real Time Bidders and analytics suites<br>
+            - Breaking into the field of machine learning<br>
+            - Big data all over<br>
+        </p>
+        </div>
+        </div>
+        <p>
+        <br>
+        
+       
+    <div id="advertising" style="display:block">
         <h4>ADVERTISING
         TECHNOLOGY</h4>
         Adknown has developed and continues to grow its assortment of Advertising Technology. Traffic Distribution Management, Monetization Optimization, RTB Mediation Platforms and Intext Advertising to name a few.
     </div>
     <br>
-    <div id="search-portals">
+    <div id="search-portals" style="display:block">
         <h4>SEARCH
         PORTALS</h4>
         From shoe stores to electronic gadgets, Adknown operates a wide range of niche targeted search portals. Targeted results come from a collection of digital curation and clever user behaviour analysis.
     </div>
     <br>
-    <div id="web-publishing">
-    <h4>WEB
-    PUBLISHING</h4>
-    Premium content for premium audiences. Adknown's publishing arm features thousands of articles hatched by our experienced editorial team. Our portfolio of web properties receives millions of visitors each week.
+    <div id="web-publishing" style="display:block">
+        <h4>WEB
+        PUBLISHING</h4>
+        Premium content for premium audiences. Adknown's publishing arm features thousands of articles hatched by our experienced editorial team. Our portfolio of web properties receives millions of visitors each week.
     </div>
     <br>
 
-    Adknown is a cutting-edge technology company.
+    Adknown is a cutting-edge technology company.<br>
     We are not your typical online media company. Our in house technology is at the core of almost everything we do. We don't just talk about the latest and greatest. We build it. Innovative Engineering is our forte. Big Data isn't just a buzzword to us. We live it. Scale is a word spoken daily at Adknown.
     <br>
-<div>
-</body>
-
-<div id="adknown">
-    <a href="https://www.adknown.com/about/">
-    <img src="/adknown/adknown_logo.png" width="18%">
-    </a>
+    <p>
 </div>
+</body>

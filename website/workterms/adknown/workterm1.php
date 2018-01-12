@@ -8,20 +8,27 @@
 ?>
   <link rel="stylesheet" href="../css/workterm1.css">
 </head>
-<body>
+<body background="/../shared/background.jpg">
 
 <?php
     echo file_get_contents(__DIR__."/../shared/nav_bar.html");
 ?>
 
 <div id="content">
-    <div id="company">
+    <div id="company" style="background-color: rgba(255,255,255,0.7)">
     <img id="adknown-logo" src="adknown_logo.png" >
     </div>
+    
+    <h2 style="text-align:center">Work Term 1 & 2</h2>
     <div id="term-info">
         Duration: May 2017 - January 2018 <br>
         Position: Software Engineering Intern
     </div>
+    <style>
+    #job-description {
+    background-color: rgba(255,255,255,0.7);
+    }
+    </style>
     <div id="job-description" >
         <h2 style="text-align:center;">Job Description</h2>
         <img id="group-picture" src="group.png" >
@@ -30,7 +37,11 @@
             My job as a Software Engineering Intern involved working on a variety of projects. <br>
             The first project I had worked on had to do with on-line traffic, the traffic that comes in needs to be filtered for authenticity from artificial traffic to ensure quality of our product. <br>
             I was tasked with rewriting the existing tool with a new aggregation system. <br>
-            This involved looking onto different aggregation methods and services and aggregating the new data onto AWS's S3, along with this was fixing rendering problems and using Athena to run queries on the data gathered from the traffic to use towards the services ADknown offers to customers
+            This involved looking into different aggregation methods and services, as well as aggregating the data onto AWS's S3.<br>
+            I was also fixing rendering problems and using Athena to run queries on the data gathered, used towards the services ADknown offers. <br>
+            I had also worked on multiple tools that are used in house to increase productivity, as well as securing Wordpress sites to prevent attacks from being successful and creating API's.
+            <br>
+            What i found most interesting about the position is the amount of information gathered and used for advertisements.<br> I enjoyed learning about all of the different tools used, and learning about Amazon Web Services which are very useful and highly scalable. 
         </div>
     </div>
     
