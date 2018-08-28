@@ -1,7 +1,7 @@
 .navbar-default {
-  background-color: #FF7256;
-  border-color: #6b6b6b;
-  color: black;
+    background-color: #FF7256;
+    border-color: #6b6b6b;
+    color: black;
 }
 
 .nav.navbar-nav li a {
@@ -13,7 +13,7 @@
 }
 
 .navbar-default .navbar-brand {
-  color: black;
+    color: black;
 }
 
 .nav .current {
