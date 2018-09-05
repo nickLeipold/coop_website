@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>About Adknown</title>
+    <title>About Sortable</title>
     <?php
     echo file_get_contents(__DIR__ . "/../shared/bootstrap_jquery.html");
     ?>
@@ -10,7 +10,7 @@
 <?php
 echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
 ?>
-<h2 style="text-align:center; background-color: rgba(255,255,255,0.7)">About ADknown</h2>
+<h2 style="text-align:center; background-color: rgba(255,255,255,0.7)">About Sortable</h2>
 
 <style>
     #what-we-do {
@@ -26,10 +26,10 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
 </style>
 <div id="what-we-do" style="float:left;">
 
-    <div id="adknown" style="display:block" width="100%">
+    <div id="Sortable" style="display:block" width="100%">
         <p width="100%">
-            <a href="https://www.adknown.com/about/">
-                <img src="/adknown/adknown_logo.png" style="float:left; padding: 20px 20px 20px 20px;" width="20%">
+            <a href="https://www.Sortable.com/about/">
+                <img src="/Sortable/Sortable_logo.png" style="float:left; padding: 20px 20px 20px 20px;" width="20%">
             </a>
         <div id="quick-facts" width="100%">
             <h4>Quick Facts</h4>
@@ -48,29 +48,29 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
 <div id="advertising" style="display:block">
     <h4>ADVERTISING
         TECHNOLOGY</h4>
-    Adknown has developed and continues to grow its assortment of Advertising Technology. Traffic Distribution
+    Sortable has developed and continues to grow its assortment of Advertising Technology. Traffic Distribution
     Management, Monetization Optimization, RTB Mediation Platforms and Intext Advertising to name a few.
 </div>
 <br>
 <div id="search-portals" style="display:block">
     <h4>SEARCH
         PORTALS</h4>
-    From shoe stores to electronic gadgets, Adknown operates a wide range of niche targeted search portals. Targeted
+    From shoe stores to electronic gadgets, Sortable operates a wide range of niche targeted search portals. Targeted
     results come from a collection of digital curation and clever user behaviour analysis.
 </div>
 <br>
 <div id="web-publishing" style="display:block">
     <h4>WEB
         PUBLISHING</h4>
-    Premium content for premium audiences. Adknown's publishing arm features thousands of articles hatched by our
+    Premium content for premium audiences. Sortable's publishing arm features thousands of articles hatched by our
     experienced editorial team. Our portfolio of web properties receives millions of visitors each week.
 </div>
 <br>
 
-Adknown is a cutting-edge technology company.<br>
+Sortable is a cutting-edge technology company.<br>
 We are not your typical online media company. Our in house technology is at the core of almost everything we do. We
 don't just talk about the latest and greatest. We build it. Innovative Engineering is our forte. Big Data isn't just a
-buzzword to us. We live it. Scale is a word spoken daily at Adknown.
+buzzword to us. We live it. Scale is a word spoken daily at Sortable.
 <br>
 </p>
 </div>

@@ -27,9 +27,9 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
     }
 </style>
 <div id="content">
-    &nbsp;&nbsp;&nbsp;This is the conclusion I am pulling from my experience at ADknown, from the experiences I've
+    &nbsp;&nbsp;&nbsp;This is the conclusion I am pulling from my experience at Sortable, from the experiences I've
     gained and all the different things I have learned.<br>
-    During my 8 month term at ADknown I started with very little experience and knowledge about web development.<br>
+    During my 8 month term at Sortable I started with very little experience and knowledge about web development.<br>
     The learning curve was very steep but they stuck with me till I came up to speed where i learned a plethora of
     different tools.<br>
     During this term I learned PHP for the use in all of their web tools, JS for gathering browser information, SQL for

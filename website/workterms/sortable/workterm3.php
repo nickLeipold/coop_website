@@ -16,7 +16,7 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
 
 <div id="content">
     <div id="company" style="background-color: rgba(255,255,255,0.7)">
-        <img id="adknown-logo" src="sortable_logo.png">
+        <img id="sortable-logo" src="sortable_logo.png">
     </div>
 
     <h2 style="text-align:center; background-color: rgba(255,255,255,0.7);"><?php echo $title ?></h2>
@@ -42,7 +42,7 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
             This involved looking into different aggregation methods and services, as well as aggregating the data onto
             AWS's S3.<br>
             I was also fixing rendering problems and using Athena to run queries on the data gathered, used towards the
-            services ADknown offers. <br>
+            services Sortable offers. <br>
             I had also worked on multiple tools that are used in house to increase productivity, as well as securing
             Wordpress sites to prevent attacks from being successful and creating API's.
             <br>
