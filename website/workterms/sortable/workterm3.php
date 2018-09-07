@@ -8,7 +8,7 @@
     ?>
     <link rel="stylesheet" href="../css/workterm3.css">
 </head>
-<body background="/../shared/background.jpg">
+<body background="../shared/background.jpg">
 
 <?php
 echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
@@ -16,7 +16,7 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
 
 <div id="content">
     <div id="company" style="background-color: rgba(255,255,255,0.7)">
-        <img id="sortable-logo" src="sortable_logo.png">
+        <img id="sortable-logo" src="sortable_logo.png" style="padding: 20px 20px 20px 20px; width: 20%; min-width: 250px;">
     </div>
 
     <h2 style="text-align:center; background-color: rgba(255,255,255,0.7);"><?php echo $title ?></h2>

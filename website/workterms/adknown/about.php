@@ -7,7 +7,7 @@
     echo file_get_contents(__DIR__."/../shared/bootstrap_jquery.html");
 ?>
 </head>
-<body background="/../shared/background.jpg">
+<body background="../shared/background.jpg">
 <?php
     echo file_get_contents(__DIR__."/../shared/nav_bar.html");
 ?>
@@ -17,32 +17,28 @@
 #what-we-do {
     word-wrap: break-word;
     font-size: 12pt;
-    width:100%;
     text-align:left;
     border: 1px solid black;
     border-radius: 10px;
-    padding:10px;
-    margin:10px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
     background-color: rgba(255,255,255,0.7);
     </style>
 <div id="what-we-do" style="float:left;">
 
-        <div id="adknown" style="display:block" width="100%">
-        <p width="100%">
+        <div id="adknown" style="display:block;">
             <a href="https://www.adknown.com/about/">
-            <img src="/adknown/adknown_logo.png" style="float:left; padding: 20px 20px 20px 20px;" width="20%">
+            <img src="adknown_logo.png" style="float:left; padding: 20px 20px 20px 20px; width:20%">
             </a>
-            <div id="quick-facts" width="100%">
+            <div id="quick-facts">
             <h4>Quick Facts</h4>
             - Located in the Quebec Street mall downtown Guelph<br>
             - Close knit team of developers and marketers<br>
             - Fast response time with Real Time Bidders and analytics suites<br>
             - Breaking into the field of machine learning<br>
             - Big data all over<br>
-        </p>
+            </div>
         </div>
-        </div>
-        <p>
         <br>
         
        
@@ -68,6 +64,5 @@
     Adknown is a cutting-edge technology company.<br>
     We are not your typical online media company. Our in house technology is at the core of almost everything we do. We don't just talk about the latest and greatest. We build it. Innovative Engineering is our forte. Big Data isn't just a buzzword to us. We live it. Scale is a word spoken daily at Adknown.
     <br>
-    <p>
 </div>
 </body>

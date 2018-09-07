@@ -6,7 +6,7 @@
     echo file_get_contents(__DIR__ . "/../shared/bootstrap_jquery.html");
     ?>
 </head>
-<body background="/../shared/background.jpg">
+<body background="../shared/background.jpg">
 <?php
 echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
 ?>
@@ -16,33 +16,27 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
     #what-we-do {
         word-wrap: break-word;
         font-size: 12pt;
-        width: 100%;
         text-align: left;
         border: 1px solid black;
         border-radius: 10px;
-        padding: 10px;
-        margin: 10px;
+        margin: 10px 10px 10px 10px;
+        padding: 10px 10px 10px 10px;
         background-color: rgba(255, 255, 255, 0.7);
 </style>
 <div id="what-we-do" style="float:left;">
 
-    <div id="Sortable" style="display:block" width="100%">
-        <p width="100%">
-            <a href="https://www.Sortable.com/about/">
-                <img src="/Sortable/Sortable_logo.png" style="float:left; padding: 20px 20px 20px 20px;" width="20%">
+    <div id="Sortable" style="display:block; width:100%">
+            <a href="https://www.Sortable.com/about-us">
+                <img src="sortable_logo.png" style="float:left; padding: 20px 20px 20px 20px; width:20%">
             </a>
-        <div id="quick-facts" width="100%">
+        <div id="quick-facts">
             <h4>Quick Facts</h4>
-            - Located in the Quebec Street mall downtown Guelph<br>
+            - Located in the market Square Building in the same office as the Record<br>
             - Close knit team of developers and marketers<br>
-            - Fast response time with Real Time Bidders and analytics suites<br>
-            - Breaking into the field of machine learning<br>
-            - Big data all over<br>
-        </p>
+            - Top of the line analytics tools<br>
     </div>
 </div>
-<p>
-    <br>
+<br>
 
 
 <div id="advertising" style="display:block">
@@ -72,6 +66,5 @@ We are not your typical online media company. Our in house technology is at the 
 don't just talk about the latest and greatest. We build it. Innovative Engineering is our forte. Big Data isn't just a
 buzzword to us. We live it. Scale is a word spoken daily at Sortable.
 <br>
-</p>
 </div>
 </body>

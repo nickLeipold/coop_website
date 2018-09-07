@@ -6,7 +6,7 @@
     echo file_get_contents(__DIR__."/../shared/bootstrap_jquery.html");
 ?>
 </head>
-<body background="/../shared/background.jpg">
+<body background="../shared/background.jpg">
 <?php
     echo file_get_contents(__DIR__."/../shared/nav_bar.html");
 ?>
@@ -15,13 +15,10 @@
 <style>
     #goals{
     border: 1px solid black;
-    border-radius: 14px;
-    padding:10px;
+    border-radius: 10px;
     text-align:left;
-    margin-left:5%;
-    margin-right:5%;
-    margin-top:15px;
-    margin-bottom:45px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
     background-color: rgba(255,255,255,0.7);
 }
 </style>
