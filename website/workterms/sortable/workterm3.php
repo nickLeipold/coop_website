@@ -35,20 +35,19 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
             Position: Software Developer Co-op
         </div>
         <div id="job-desc">
-            My job as a Software Engineering Intern involved working on a variety of projects. <br>
-            The first project I had worked on had to do with on-line traffic, the traffic that comes in needs to be
-            filtered for authenticity from artificial traffic to ensure quality of our product. <br>
-            I was tasked with rewriting the existing tool with a new aggregation system. <br>
-            This involved looking into different aggregation methods and services, as well as aggregating the data onto
-            AWS's S3.<br>
-            I was also fixing rendering problems and using Athena to run queries on the data gathered, used towards the
-            services Sortable offers. <br>
-            I had also worked on multiple tools that are used in house to increase productivity, as well as securing
-            Wordpress sites to prevent attacks from being successful and creating API's.
+            My job as a Software Developer Co-op involved working a new product that was to be released.
             <br>
-            What I found most interesting about the position is the amount of information gathered and used for
-            advertisements.<br> I enjoyed learning about all of the different tools used, and learning about Amazon Web
-            Services which are very useful and highly scalable.
+            The project involved changes to user facing tools as well as backend and server side changes to the system itself for optimal performance.
+            Languages i got to work with for the UI tools consisted of HTML, vanilla js and some AngualrJs. Angular is a fun one, especially on a slightly older version of the language, lots of magic to deal with and files to track through,
+            although it was a nice refresher into the world of user design and making items nice and pretty. UI changes were something that was sprinkled through my time at Sortable and I was number 2 on the team for tackling them.
+            <br>
+            The majority of my work was feature enhancement to the existing back-end system, and working on getting the product to market. This is where i got to learn and work with scala,
+            by helping with prebid adapter protocol support and had the experience of sifting through objects and functions to find when a function is actually called. Functional programming showed me a new way to look at problems
+            and how a problem can be solved.
+            <br>
+            I found functional programming to be an eye opener as well as Scala as a language, which will help me keep a more open mind when completing other tasks and problems in my future endeavours.
+
+
         </div>
     </div>
 
