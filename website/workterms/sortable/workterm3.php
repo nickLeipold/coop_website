@@ -46,8 +46,6 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
             and how a problem can be solved.
             <br>
             I found functional programming to be an eye opener as well as Scala as a language, which will help me keep a more open mind when completing other tasks and problems in my future endeavours.
-
-
         </div>
     </div>
 

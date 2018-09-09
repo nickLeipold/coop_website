@@ -27,18 +27,10 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
     }
 </style>
 <div id="content"><p>
-    &nbsp;&nbsp;&nbsp;This is the conclusion I am pulling from my experience at Sortable, from the experiences I've
-    gained and all the different things I have learned.<br>
-    During my 8 month term at Sortable I started with very little experience and knowledge about web development.<br>
-    The learning curve was very steep but they stuck with me till I came up to speed where i learned a plethora of
-    different tools.<br>
-    During this term I learned Scala for the use in all of their web tools and the auctioning system in their product
-    All of the above and so much more have set me up to be a better employee, and better adapt to situations and
-    employers.<br>
-    I could not ask for a better group of people to pressure me to learn new content, and help me along the way to grow
-    as a programmer and learn how to properly design new projects.<br>
-    They were all FANTASTIC , and i hope to continue meeting more great people in my en-devours.<br>Would recommend to
-    anyone who wants a challenge and to learn many many new things.
-    </p>
+    &nbsp;&nbsp;From my experiences at Sortable, I've gained new skills and views at the problems i encounter from day to day in programming.
+        Along this 4 month journey I had the pleasure of working with some of the most diverse group of personalities and people with varying ranges of expertise and knowledge.
+        Was able to work alongside some people with great knowledge in the company and also had the luxury to relax and talk to co-workers over some cocktails fridays and over some beers at other social events,
+        Which is something i dont believe i really experienced anywhere else, I really felt like part of the team.
+    Sortable is a group of caring, level headed people who will help you with new topics and understand the challenges you are facing, which is why my co-op experience was successful and i would recommend to other people to join the team.</p>
 </div>
 </body>
