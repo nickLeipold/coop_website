@@ -31,40 +31,22 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
             </a>
         <div id="quick-facts">
             <h4>Quick Facts</h4>
+            <p>
             - Located in the market Square Building in the same office as the Record<br>
-            - Close knit team of developers and marketers<br>
-            - Top of the line analytics tools<br>
+            - Close knit scrappy team of marketers, sales and developers<br>
+            - Great breadth of customers from many demographics<br>
+            - Machine learning Ad optimization
+            </p>
     </div>
 </div>
-<br>
-
-
 <div id="advertising" style="display:block">
-    <h4>ADVERTISING
-        TECHNOLOGY</h4>
-    Sortable has developed and continues to grow its assortment of Advertising Technology. Traffic Distribution
-    Management, Monetization Optimization, RTB Mediation Platforms and Intext Advertising to name a few.
+    <h4>About Sortable</h4>
+    <p>&nbsp;&nbsp;Sortable is an agnostic, low-cost, broad spectrum platform that helps publishers unify demand partners, data, and tools.
+    They've developed a best-in-class UI that contextualizes this data, allowing publishers to more deeply understand the correlation between content, marketing, and monetization.
+        Sortable started out building sites that helped consumers compare products, but found a more productive use of the knowledge of building sites
+        was through bringing new publishers into the online ad space and ad optimizations.
+    </p>
 </div>
-<br>
-<div id="search-portals" style="display:block">
-    <h4>SEARCH
-        PORTALS</h4>
-    From shoe stores to electronic gadgets, Sortable operates a wide range of niche targeted search portals. Targeted
-    results come from a collection of digital curation and clever user behaviour analysis.
-</div>
-<br>
-<div id="web-publishing" style="display:block">
-    <h4>WEB
-        PUBLISHING</h4>
-    Premium content for premium audiences. Sortable's publishing arm features thousands of articles hatched by our
-    experienced editorial team. Our portfolio of web properties receives millions of visitors each week.
-</div>
-<br>
-
-Sortable is a cutting-edge technology company.<br>
-We are not your typical online media company. Our in house technology is at the core of almost everything we do. We
-don't just talk about the latest and greatest. We build it. Innovative Engineering is our forte. Big Data isn't just a
-buzzword to us. We live it. Scale is a word spoken daily at Sortable.
 <br>
 </div>
 </body>
