@@ -20,6 +20,11 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
     </div>
 
     <h2 style="text-align:center; background-color: rgba(255,255,255,0.7);"><?php echo $title ?></h2>
+    <style>
+        #job-description {
+            background-color: rgba(255,255,255,0.7);
+        }
+    </style>
     <div id="job-description">
         <h2 style="text-align:center;">Job Description</h2>
         <img id="group-picture" src="SortableTeamPhoto2018.jpg">

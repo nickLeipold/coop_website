@@ -25,12 +25,19 @@
         </a>
     </div>
     <div id="workterm-buttons" style="background-color:#d3d3d3;">
-        <div style="margin-right:5px; margin-left:5px;">
+        <div style="margin-right:5px; margin-left:5px; display:table;">
             <h1>Employers</h1>
-            <div id="adknown">
-                <a href="/adknown/about.php">
-                <img src="/adknown/adknown_logo.png" width="18%">
-                </a>
+            <div style="overflow: hidden;">
+                <div id="adknown" style="float:left;">
+                    <a href="adknown/about.php">
+                    <img src="adknown/adknown_logo.png" style="width:80%">
+                    </a>
+                </div>
+                <div id="sortable" style="layout: block">
+                    <a href="sortable/about.php">
+                        <img src="sortable/sortable_logo.png" style="width:18%; min-width: 250px;">
+                    </a>
+                </div>
             </div>
         </div>
     </div>
