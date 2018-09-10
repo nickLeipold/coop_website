@@ -28,7 +28,7 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
     </style>
     <div id="job-description">
         <h2 style="text-align:center;">Job Description</h2>
-        <img id="group-picture" src="group.png">
+        <img id="group-picture" src="SortableTeamPhoto2018.jpg">
         <br>
         <div id="term-info">
             Duration: May 2018 - August 2018 <br>
