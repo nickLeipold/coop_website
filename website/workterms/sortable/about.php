@@ -6,7 +6,7 @@
     echo file_get_contents(__DIR__ . "/../shared/bootstrap_jquery.html");
     ?>
 </head>
-<body background="../shared/background.jpg">
+<body background="../shared/Sortable%20Logo%20-%20icon_glyph_Huge.png">
 <?php
 echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
 ?>

@@ -8,7 +8,7 @@
     ?>
     <link rel="stylesheet" href="../css/workterm3.css">
 </head>
-<body background="../shared/background.jpg">
+<body background="../shared/Sortable%20Logo%20-%20icon_glyph_Huge.png">
 
 <?php
 echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
