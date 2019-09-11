@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="wNIG2wKfFNZVvTIV9ihz458uL8C3zvyjqmjFaI5QOcc" />
     <title>NickolasLeipold.com</title>
 <?php
     echo file_get_contents(__DIR__."/shared/bootstrap_jquery.html");
