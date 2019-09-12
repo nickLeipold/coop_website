@@ -6,7 +6,7 @@
     echo file_get_contents(__DIR__ . "/../shared/bootstrap_jquery.html");
     ?>
 </head>
-<body background="../shared/Sortable%20Logo%20-%20icon_glyph_Huge.png">
+<body style="background-color: #212121">
 <?php
 echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
 ?>
@@ -25,31 +25,21 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
 
 <div id="goals">
     <div>
-        <h4>Become more proficient in functional programming</h4>
-        <p>&nbsp;&nbsp;From day one at Sortable I was ushered into the world of functional programing which was something I had never really noticed before.
-        I knew very little about it other than functions aren't always executed when they are called. The language we use is called Scala which runs on the JVM
-        Through several tasks and PR's coming back with comments such as do this in a 'more Scala way', I learned what was meant and I really started to enjoy the nuances
-        of the language and the coding style.</p>
+        <h4>Learn how to better design user interfaces </h4>
+        <p>&nbsp;&nbsp;This has improved some from going through UI design workshops and working directly with a UI designer to create and understand design choices.</p>
     </div>
     <br>
     <div>
-        <h4>Execute tasks with a higher degree of clarity and understanding</h4>
-        <p>&nbsp;&nbsp;This is always a challenge no matter where you work or who you work with. This was a goal to be worked on so I could be more productive and make a more concise solution to the current problem, and not the perceived one.
-        I believe i made great progress on this goal because i was later interfacing with other co-workers and gathering the details of what they actually want completed and was able to think and create a solution much more quickly.
+        <h4>Become better at coding user interfaces and making them responsive </h4>
+        <p>&nbsp;&nbsp;This is something i think i had decent progress on, but still not to the level as someone who creates user interfaces on a regular basis, but my effeciency with css has increased and making concious decisions on color
+choices and designs has improved from being able to listen in on design discussions.
         </p>
     </div>
     <br>
     <div>
-        <h4>Proficient at conveying thoughts and ideas</h4>
-        <p>&nbsp;&nbsp;Conveying thoughts about how new systems should function and how problems should be solved was a goal I had for this workterm,
-        Clearly defining my thoughts with the correct and detailed words was worked on and my growth in the ad tech knowledge has helped with conveying my ideas correctly.
-        Ultimately helping with my comprehension of the ad tech field.</p>
-    </div>
-    <br>
-    <div>
-        <h4>Retain spoken instruction more readily and be able to write down that information for future use</h4>
-        <p>&nbsp;&nbsp;Ideally instructions for tasks should be in a ticket which was something worked on, but none the less I have gotten better and consulting with the ticket creator and gathering the needed information to complete what is desired,
-            this is also due to getting better at abbreviating and more streamlined notes.</p>
+        <h4>Learning more back-end start up scripting </h4>
+        <p>&nbsp;&nbsp;Was able to work with some bash scripting to create projects with lab based files and texts, while setting up git repos. This allows people to worry less about the config of their project and focus more on code
+	I think i made some good progress on this area, but there is obviously a lot more scripting that can be done in industry and practice.</p>
     </div>
     <br>
 </div>

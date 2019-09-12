@@ -1,4 +1,4 @@
-<?php $title = "Work Term 3"; ?>
+<?php $title = "Work Term 4"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,15 +8,14 @@
     ?>
     <link rel="stylesheet" href="../css/workterm3.css">
 </head>
-<body background="../shared/Sortable%20Logo%20-%20icon_glyph_Huge.png">
-
+<body style="background-color: #212121">
 <?php
 echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
 ?>
 
 <div id="content">
     <div id="company" style="background-color: rgba(255,255,255,0.7)">
-        <img id="sortable-logo" src="sortable_logo.png" style="padding: 20px 20px 20px 20px; width: 20%; min-width: 250px;">
+        <img id="wsib-innovation logo" src="lab-logo.ad733c38.gif" style="padding: 20px 20px 20px 20px; width: 20%; min-width: 250px;">
     </div>
 
     <h2 style="text-align:center; background-color: rgba(255,255,255,0.7);"><?php echo $title ?></h2>
@@ -27,26 +26,22 @@ echo file_get_contents(__DIR__ . "/../shared/nav_bar.html");
     </style>
     <div id="job-description">
         <h2 style="text-align:center;">Job Description</h2>
-        <img id="group-picture" src="SortableTeamPhoto2018.jpg">
+        <img id="group-picture" src="wsib-team-photo.jpg">
         <br>
         <div id="term-info">
-            Duration: May 2018 - August 2018 <br>
-            Position: Software Developer Co-op
+            Duration: January 2019 - August 2019 <br>
+            Position: Full-stack Developer
         </div>
         <div id="job-desc">
-            My job as a Software Developer Co-op involved working a new product that was to be released.
+            My job as a Full-stack Developer involved working on many different projects that had previously been researched by the team or projects we researched and created.
             <br>
-            The project involved making changes to user facing tools as well as backend and server side changes to the back-end itself for optimal performance.
-            Languages I used while working on UI tools consisted of HTML, vanilla js and some AngualrJs. Angular is a fun one, especially on a slightly older version of the language, lots of magic to deal with and files to track through,
-            although it was a nice refresher into the world of user design and making items nice and pretty. UI changes were something that was sprinkled through my time at Sortable and I was number 2 on the team for tackling them.
-            <br>
-            The majority of my work was feature enhancement to the existing back-end system, and working on getting the product to market. On the back-end is where I got to learn and work with scala,
-            by helping with prebid adapter protocol support and had the experience of sifting through objects and functions to find when a function is actually called. Functional programming showed me a new way to look at problems
-            and how a problem can be solved.
-            <br>
-            I found functional programming to be an eye opener along with Scala as a language, which will help me keep a more open mind when completing other tasks and problems in my future endeavours.
-        </div>
+		The main Project I worked on this term was analyzing back strain in masonry workers. This was sparked from a meeting the lab had been invited to that involved a masonry union.<br>
+		The masonry Union wanted a way to reduce their most common injury which is back strain, and the solution that was presented i felt miss the mark as a product, from this meeting I was given the freedom
+to research and develope a solution that i felt fit the need of the consumer more. This enabled me to research Android and iOS development, as well as bluetooth interfacing and external sensing units that would be placed on the worker.
     </div>
+
+	<img id="fatigue detector" src="fatigueReading-2019-06-18-074913.gif" style="padding: 20px 20px 20px 20px; width: 20%; min-width: 250px;">
+
 
 </div>
   
